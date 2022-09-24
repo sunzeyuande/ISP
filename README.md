@@ -1,5 +1,7 @@
 # ISP
 
+chess文件夹里是相机标定图像
+
 combine.py为全景图拼接
 
 daoyuan.py为对daoyuan.png图像进行处理
